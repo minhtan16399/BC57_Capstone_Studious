@@ -1,0 +1,36 @@
+# BC57_Capstone
+ 
+Thông tin nhóm :
+
+Thành viên 1: Phạm Thanh Toàn
+
+Thành viên 2 : Võ Bá Minh Tân
+
+
+Link website: https://wp.w3layouts.com/studious/
+
+Link Github: https://github.com/Toanpham174/BC57_Capstone_1
+
+Link Youtube: https://youtu.be/Bza703mcvos
+
+Link Template_tasks : https://docs.google.com/spreadsheets/d/130xUIn_DaqsNBzP42KF966Mjx1PjbjlAc7DDDrUWDaY/edit#gid=635886603
+
+Các phần đã làm gồm : Home, About us, Contact, Blog Posts, 404 Page,Ladding Page
+GiỚI THIỆU SƠ VỀ WEBSITE
+- Công nghệ & thư viện sử dụng:
+Front-end: Bootstrap,GG Font,OWL,FontAwesome
+- Các phần của trang web (mô tả) :
+*Studious
+Studious is a modern and responsive website template designed for educational institutions, universities, and online learning platforms. This project aims to provide a visually appealing and user-friendly interface for students, teachers, and administrators to interact and access educational resources.
+* Features
+- Clean and intuitive user interface
+- Responsive design for seamless experience across devices
+- Home page showcasing key information about the institution and its offerings
+- Course catalog with detailed descriptions and enrollment options
+- User authentication and profile management
+- Blog section for sharing educational articles and news
+- Contact page with a form to get in touch with the institution
+- Admin dashboard for managing courses, users, and blog posts
+* Technologies Used
+- HTML5, CSS3, and JavaScript for the frontend
+- Bootstrap framework for responsive layouts and components
